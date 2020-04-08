@@ -1,1 +1,1 @@
-A compilation of algorithms.
+A compilation of self-written algorithms.
